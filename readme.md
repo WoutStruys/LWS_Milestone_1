@@ -302,6 +302,6 @@ I use ChatGPT to get the draft you see in the AI_Prompt.md file. I made some cha
 ## 12) Conclusion
 
 You now have a fully containerized LAMP stack that:
-	•	Serves a PHP page on 8085 that reads from MariaDB.
-	•	Stores web content and database data on the host (persistence proven across restarts).
-	•	Implements health checks, non‑root execution.
+- Serves a PHP page on 8085 that reads from MariaDB.
+- Stores web content and database data on the host (persistence proven across restarts).
+- Implements health checks, non‑root execution.
