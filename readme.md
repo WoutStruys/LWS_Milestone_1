@@ -291,7 +291,7 @@ docker compose up -d
 ### Webpage after restart (data persists)
 ![Alt text](img/persistence.png)
 
-### Video is in `Milestone_1_Proof.mov` [Video On Youtube](https://youtu.be/FUvehWBO4pg))
+### Video is in `Milestone_1_Proof.mov` - [Video On Youtube](https://youtu.be/FUvehWBO4pg)
 
 ## 11) Generative AI (Prompts & Responses) & Reflection
 
