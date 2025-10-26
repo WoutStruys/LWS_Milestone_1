@@ -1,4 +1,4 @@
-LAMP Stack (Apache2 + MariaDB) with Docker & Compose
+# LAMP Stack (Apache2 + MariaDB) with Docker & Compose
 
 Author: Wout Struys
 Date: 2025-10-25
@@ -292,7 +292,7 @@ docker compose up -d
 ### Webpage after restart (data persists)
 ![Alt text](img/persistence.png)
 
-### Video is in `Milestone_1_Proof.mov`
+### Video is in `Milestone_1_Proof.mov` ![Video On Youtube]([img/persistence.png](https://youtu.be/FUvehWBO4pg))
 
 ## 11) Generative AI (Prompts & Responses) & Reflection
 
