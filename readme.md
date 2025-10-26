@@ -150,7 +150,6 @@ CMD ["apache2ctl", "-D", "FOREGROUND"]
 - Modules: Only necessary modules enabled (PHP, SSL, rewrite).
 - Permissions: webapp:www-data with 775 to allow Apache to read/write as needed.
 
-⸻
 
 ## 5) Apache VirtualHost configs
 
@@ -292,7 +291,7 @@ docker compose up -d
 ### Webpage after restart (data persists)
 ![Alt text](img/persistence.png)
 
-### Video is in `Milestone_1_Proof.mov` ![Video On Youtube]([img/persistence.png](https://youtu.be/FUvehWBO4pg))
+### Video is in `Milestone_1_Proof.mov` [Video On Youtube](https://youtu.be/FUvehWBO4pg))
 
 ## 11) Generative AI (Prompts & Responses) & Reflection
 
