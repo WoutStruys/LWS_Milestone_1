@@ -297,7 +297,7 @@ docker compose up -d
 
 Prompts are in `AI_Prompt.md` or `AI_Prompt.pdf`.
 
-I use ChatGPT to get the draft you see in the AI_Prompt.md file. I made some changes and corrections to the README.md. The code itself was mostly accurate from the start, I only removed the part about encrypted HTTPS as I could not get it to work.
+I use ChatGPT to get the draft you see in the AI_Prompt.md file. I made some changes and corrections to the README.md. The code itself was mostly accurate from the start, I only removed the part about encrypted HTTPS as I could not get it to work. I also need to debug some thing in my environment because i had some specieke to me because i use a ubuntu on parallels on my mac.
 
 ## 12) Conclusion
 
